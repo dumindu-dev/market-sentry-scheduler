@@ -23,4 +23,5 @@ const response = await axios.post(config.serviceURL+"/api/dividends/sendDividend
     }
 });
 
-console.log(response);
+//console.log(response);
+console.log("Execution is successful.");
